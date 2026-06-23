@@ -12,12 +12,11 @@
     "react": "^19",
     "react-dom": "^19"
   },
- "devDependencies": {
+  "devDependencies": {
     "@opennextjs/cloudflare": "^1.19.11",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "typescript": "^5"
-  }
   }
 }
