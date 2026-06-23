@@ -1,3 +1,4 @@
+// v2
 import Nav from "@/components/Nav";
 import Hero from "@/components/Hero";
 import Method from "@/components/Method";
