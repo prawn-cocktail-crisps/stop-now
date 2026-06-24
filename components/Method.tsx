@@ -10,7 +10,7 @@ const steps = [
     body: "Together you'll explore the myths and false beliefs that cause drinkers to consume alcohol — and dismantle them one by one.",
   },
   {
-    tag: "Belief change",
+    tag: "Beliefs",
     title: "Belief change",
     body: "As the session progresses you will replace the desire to drink with a genuine, lasting understanding of the detrimental effect of alcohol.",
   },
