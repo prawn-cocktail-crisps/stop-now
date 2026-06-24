@@ -5,7 +5,7 @@ const steps = [
     body: "Your counsellor will listen to your story to understand your specific drinking habits and personal circumstances — no judgement.",
   },
   {
-    tag: "The truth about alcohol",
+    tag: "The truth",
     title: "The truth about alcohol",
     body: "Together you'll explore the myths and false beliefs that cause drinkers to consume alcohol — and dismantle them one by one.",
   },
