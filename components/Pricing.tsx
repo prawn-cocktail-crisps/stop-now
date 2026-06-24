@@ -17,10 +17,10 @@ export default function Pricing() {
         <h2>Simple, transparent pricing</h2>
         <div className="pricing-card">
           <div className="price-row">
-            <span className="price-main">£249</span>
-            <span className="price-was">£499</span>
+            <span className="price-main">£149</span>
+      
           </div>
-          <p className="price-note">50% introductory offer · Pay via PayPal</p>
+          <p className="price-note">introductory offer · Pay via PayPal</p>
           <ul className="features">
             {features.map((f) => (
               <li key={f}>{f}</li>
